@@ -1,0 +1,6 @@
+{
+  "name": "Akwam Proxy Streamer",
+  "description": "نظام بث ومproxy متكامل لموقع أكوام مع تخطي حماية الروابط.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
